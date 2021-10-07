@@ -45,3 +45,29 @@ h4 {
   margin: 75px;
   font-size: 20px;
 }
+article
+{
+  color: black;
+  background-color: rgb(255, 188, 17);
+  width: 90px ;
+  border: 2px solid rgb(119, 29, 29);
+  padding: 30px;
+  border-radius: 15px;
+  margin: 200px;
+  text-align: inherit;
+  font-size: 25px;
+  padding: 20mm;
+  text-transform: lowercase; 
+}
+section
+{
+  background-color: darkred;
+  background-position: center;
+  border: 5px dotted burlywood;
+  height: 180px;
+  width: 100px;
+  font-style: initial;
+  font-size: 110%;
+  margin: 500px;
+
+}
