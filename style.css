@@ -80,5 +80,10 @@ address
   padding: 29px;
   margin: 70px;
   font-size: 28px;
-  
+}
+#style#1
+{
+  color: black;
+  background-color: white;
+  border: 10px solid black;
 }
