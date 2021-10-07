@@ -698,7 +698,7 @@ address
       address
       {
         color: aliceblue;
-        background-color: crimson;
+        background-color: rgb(226, 63, 95);
         width: 140px;
         border: 20px solid rgb(53, 0, 0);
         border-radius: 33px;
@@ -711,10 +711,10 @@ address
         color: black;
         background-color: white;
         border: 5px solid black;
-        padding: 15px;
+        padding: 20px 5px;
         margin: 10px;
         border-radius: 0px;
-        font-size: 50px
+        font-size: 30px
       }
       #example-2
       {
@@ -724,17 +724,18 @@ address
         padding: 20px 5px;
         margin: 10px;
         border-radius: 0px;
-        font-size: 50px
+        font-size: 30px;
       }
       #example-3
       {
         color:red;
         background-color:white;
-        border: 5px dashed red;
+        border: 10px dashed red;
         padding: 5px 10px;
         margin: 10px;
         border-radius: 0px;
-        font-size: 40px
+        font-size: 40px;
+        font-weight: bold;
       }
       #example-4
       {
@@ -744,7 +745,8 @@ address
         padding: 5px 70px;
         margin: 10px;
         border-radius: 0px;
-        font-size: 30px 
+        font-size: 30px;
+        font-weight: bold;
       }
       #example-5
       {
@@ -777,17 +779,40 @@ address
         padding: 15px 50px 10px 10px;
         margin: 10px;
         border-radius: 0px;
-        font-size: 50px
+        font-size: 35px;
+        font-weight: bold;
       }
       #example-8
       {
         color: rgb(255, 255, 255);
         background-color: rgb(50, 4, 255);
-        border: 5px solid rgb(255, 255, 255);
-        padding: 15px;
+        border: 3px dashed rgb(255, 255, 255);
+        padding: 10px;
         margin: 10px;
         border-radius: 0px;
         font-size: 50px
+      }
+      #example-9
+      {
+        color: rgb(255, 255, 255);
+        background-color: rgb(133, 0, 0);
+        border:16px dotted rgb(223, 133, 106);
+        padding: 0px;
+        margin: 10px;
+        border-radius: 0px;
+        font-size: 16px;
+        width: 100px;
+      }
+      #example-10
+      {
+        color: rgb(255, 255, 255);
+        background-color: darkgoldenrod;
+        border: 12px dashed rgb(255, 255, 255);
+        padding:0px;
+        margin: 10px;
+        border-radius: 0px;
+        font-size: 20px;
+        text-transform: lowercase;
       }
     
   
